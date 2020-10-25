@@ -1,6 +1,6 @@
 # Reasoning in Artificial Neural Networks
 
-A research review about reasoning in Artificial Neural Networks. [[Link](https://github.com/markvasin/reasoning-in-artificial-neural-networks/blob/main/research_review.pdf)] The paper briefly reviews recent approaches in building artificial neural networks that can learn to reason, such as attention mechanism, memory augmented neural networks, neural-symbolic AI and graph neural networks. This is written as part of project preparation prior to my [MSc dissertation](https://github.com/markvasin/MSc-Project).
+A research review about reasoning in Artificial Neural Networks [[Link](https://github.com/markvasin/reasoning-in-artificial-neural-networks/blob/main/research_review.pdf)]. The paper briefly reviews recent approaches in building artificial neural networks that can learn to reason, such as attention mechanism, memory augmented neural networks, neural-symbolic AI and graph neural networks. This is written as part of project preparation prior to my [MSc dissertation](https://github.com/markvasin/MSc-Project).
 
 ## Abstract
 
